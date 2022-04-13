@@ -1,5 +1,7 @@
 body {
     font-family: Roboto;
+    margin:0;
+    padding:0;
 }
 
 #menu {
@@ -43,7 +45,6 @@ img {
 }
 
 .img {
-    
     padding-top: 20px;
     left:0;
     right:0;
@@ -56,6 +57,7 @@ img {
 }
 
 .text-content {
+
     width: 1050px;
     height: 210px;
     background-color: #EFEFEF;
@@ -73,8 +75,8 @@ img {
     left: 0;
     right: 0;
     text-align: center;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 17%;
+    padding-right: 17%;
 }
 
 .container-all{
